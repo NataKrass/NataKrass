@@ -15,7 +15,7 @@ Here are some of my highlighted projects (more available in pinned repositories)
 
 ### [AI Video Generator](https://github.com/NataKrass/ai_video)
 - NextJs, React, Tailwind, Convex | Full Stack SaaS App
-- Integrates with OpenAI, Gemini, and other AI assistants to generate scripts and video content.
+- Integrates with OpenAI, Gemini, Deepgram and other AI assistants to generate scripts and video content.
 - Google Authentication, users can log in securely using their Google accounts.
 - Convex is used for backend real-time database and serverless functions, handling data synchronization and user sessions efficiently
 - Inngest manages media ingestion and processing for uploaded/generated videos

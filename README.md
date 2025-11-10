@@ -20,7 +20,7 @@ Here are some of my highlighted projects (more available in pinned repositories)
 - Live demo: [[Link to demo](https://ai-video-iota-jet.vercel.app/)]
 
 ### [Dash Dashboard](https://github.com/NataKrass/dash)
-- Full-featured **React Dashboard** with **50+ dynamic forms** and **80+ API endpoints** (GET, PUT, DELETE)  
+- Full-featured **React Dashboard** with **50+ dynamic forms** and **80+ API endpoints** (GET, POST, PUT, DELETE)  
 - Uses **Redux Toolkit** for scalable global state management  
 - Integrates seamlessly with a **Ruby backend API** for fetching and sending data  
 - Includes **interactive charts** (Chart.js, Recharts) and reusable UI components  

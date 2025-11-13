@@ -6,7 +6,7 @@ Frontend Developer specializing in **React**, **Next.js**, and **TypeScript**. I
 ## 🔧 Tech Stack
 - **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/Sass, Tailwind.css
 - **Tools & Workflow:** Git, GitHub, Webpack, CI/CD
-- **Other:** REST APIs, Responsive Design, Component Libraries
+- **Other:** REST APIs, Responsive Design, Component Libraries, WordPress (themes, plugins)
 
 ---
 

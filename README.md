@@ -33,7 +33,7 @@ Here are some of my highlighted projects (more available in pinned repositories)
 
 ## 📫 Contact Me
 - Email: natalikrasnobaieva@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/natali-krasnobaieva-a20a2617a/)
+- LinkedIn: [linkedin.com](https://linkedin.com/in/natali-krasnobaieva-a20a2617a/)
 
 ---
 
